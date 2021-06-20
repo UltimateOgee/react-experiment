@@ -1,3 +1,6 @@
+This is a basic react todo app. Made to review useState, useEffect, and useRef.
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
